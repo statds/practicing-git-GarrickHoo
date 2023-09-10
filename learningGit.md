@@ -16,4 +16,3 @@ GitHub's web-based educational programs
 GitHub offers live trainings with a hands-on, project-based approach for those who love the command line and those who don't.
 
 Training for your company
-GitHub offers in-person classes taught by our highly-experienced educators. Contact us to ask your training-related questions.
